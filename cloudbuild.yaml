@@ -7,4 +7,4 @@ timeout: 86400s
 
 options:
   pool:
-    name: 'projects/qwiklabs-gcp-03-7e8d47b8c125/locations/europe-west4/workerPools/KITO'  
+    name: 'projects/qwiklabs-gcp-03-7e8d47b8c125/locations/europe-west6/workerPools/KITO'  
